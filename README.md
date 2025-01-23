@@ -42,7 +42,7 @@ We welcome contributions to improve GeoGuardian. Feel free to submit issues or p
 
 ## 📲 App Download
 
-The app will be available on the App Store soon. The link will be added here once the app is published.
+[Android](https://play.google.com/store/apps/details?id=za.co.telic.geoguardian&hl=en)
 
 ---
 
