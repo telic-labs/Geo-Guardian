@@ -42,7 +42,10 @@ We welcome contributions to improve GeoGuardian. Feel free to submit issues or p
 
 ## 📲 App Download
 
-[Android](https://play.google.com/store/apps/details?id=za.co.telic.geoguardian&hl=en)
+[![Download on the App Store](https://raw.githubusercontent.com/telic-labs/Geo-Guardian/refs/heads/main/download-on-the-app-store.svg)](https://apps.apple.com/app/geoguardian/id6738304248)
+
+[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=za.co.telic.geoguardian&hl=en)
+
 
 ---
 
